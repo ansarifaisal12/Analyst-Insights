@@ -17,3 +17,22 @@ All relevant information regarding the columns described in the CSV files has be
 The project requires to perform the following tasks:
  Create the metrics according to the metric list.
  Create a dashboard according to the mock-up provided by stakeholders.
+# Tools and Libraries
+This project requires the use of the following tools and libraries:
+
+Python (v3.x or higher)
+Pandas
+Matplotlib
+Seaborn
+# Steps to Run the Project
+Clone or download the project repository.
+Ensure that you have the necessary tools and libraries installed.
+Run the data_analytics.py file.
+The dashboard and insights will be generated and saved in the output folder as a PNG file.
+# Conclusion
+This project provides a complete data analytics solution to AtliQ Grands to help them regain their market share and revenue. The dashboard and insights generated from the data provide valuable information that can be used to make informed business decisions.
+
+
+
+
+
